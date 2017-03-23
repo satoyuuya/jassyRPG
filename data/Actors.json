@@ -1,5 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"ja","characterIndex":0,"characterName":"j","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"j","traits":[],"initialLevel":1,"maxLevel":99,"name":"ジャッシー","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"j2","characterIndex":0,"characterName":"j2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"j2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ジャッシー","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"ja","characterIndex":0,"characterName":"j","classId":1,"equips":[6,6,2,3,4],"faceIndex":0,"faceName":"j","traits":[],"initialLevel":1,"maxLevel":99,"name":"ジャッシー","nickname":"","note":"","profile":"こいつはまじでやばい。"}
 ]

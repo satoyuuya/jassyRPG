@@ -1,7 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"病院","order":1,"parentId":0,"scrollX":936.5,"scrollY":1434.5},
-{"id":2,"expanded":true,"name":"漁村","order":2,"parentId":0,"scrollX":1088.5,"scrollY":910.5},
-{"id":3,"expanded":false,"name":"MAP003","order":4,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"家","order":3,"parentId":2,"scrollX":817.5,"scrollY":477.5}
+{"id":1,"expanded":false,"name":"病院","order":6,"parentId":5,"scrollX":930,"scrollY":1280},
+{"id":2,"expanded":true,"name":"漁村","order":1,"parentId":0,"scrollX":811,"scrollY":474},
+{"id":3,"expanded":false,"name":"礼拝堂","order":3,"parentId":2,"scrollX":819,"scrollY":482},
+{"id":4,"expanded":false,"name":"家","order":2,"parentId":2,"scrollX":819,"scrollY":482},
+{"id":5,"expanded":true,"name":"プロローグ","order":4,"parentId":0,"scrollX":819,"scrollY":482},
+{"id":6,"expanded":false,"name":"MAP006","order":5,"parentId":5,"scrollX":819,"scrollY":482}
 ]

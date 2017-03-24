@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":250,"indent":0,"parameters":[{"name":"Flash2","volume":40,"pitch":100,"pan":0}]},{"code":224,"indent":0,"parameters":[[255,255,255,170],60,false]},{"code":231,"indent":0,"parameters":[1,"j",0,0,0,0,200,200,255,0]},{"code":232,"indent":0,"parameters":[1,0,0,0,100,100,200,200,255,0,30,true]},{"code":230,"indent":0,"parameters":[30]},{"code":235,"indent":0,"parameters":[1]},{"code":337,"indent":0,"parameters":[0,110,true]},{"code":230,"indent":0,"parameters":[30]},{"code":331,"indent":0,"parameters":[-1,1,0,6000,true]},{"code":0,"indent":0,"parameters":[]}],"name":"みなごろし","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":250,"indent":0,"parameters":[{"name":"Flash2","volume":40,"pitch":100,"pan":0}]},{"code":224,"indent":0,"parameters":[[255,255,255,170],60,false]},{"code":231,"indent":0,"parameters":[1,"j_cut",1,0,0,300,100,100,255,0]},{"code":232,"indent":0,"parameters":[1,0,1,0,400,300,100,100,255,0,10,true]},{"code":230,"indent":0,"parameters":[60]},{"code":235,"indent":0,"parameters":[1]},{"code":339,"indent":0,"parameters":[1,1,13,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"みなごろし","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}

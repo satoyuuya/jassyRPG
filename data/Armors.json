@@ -3,5 +3,9 @@ null,
 {"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"盾","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
 {"id":2,"atypeId":1,"description":"やっぱりこいつがないとね、魅力が出ないよ。","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"髪の毛","note":"","params":[0,0,0,10,0,300,0,0],"price":300},
 {"id":3,"atypeId":1,"description":"赤ん坊の時から身につけていた布。すごくくさい。\nにおいは村を滅ぼす。俺が魔王だ","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"ぼろぬの","note":"","params":[0,0,0,500,0,0,0,0],"price":300},
-{"id":4,"atypeId":1,"description":"使いすぎて割れている。どうせ使う相手がいないから\n割れてたって平気平気。","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":169,"name":"きんたま","note":"","params":[0,0,0,0,500,0,0,0],"price":300}
+{"id":4,"atypeId":1,"description":"使いすぎて割れている。どうせ使う相手がいないから\n割れてたって平気平気。","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":169,"name":"きんたま","note":"","params":[0,0,0,0,500,0,0,0],"price":300},
+{"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":7,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":8,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
